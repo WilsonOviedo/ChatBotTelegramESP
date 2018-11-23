@@ -1,10 +1,3 @@
-/*******************************************************************
-*  An example of bot that show bot action message.                *
-*                                                                 *
-*                                                                 *
-*                                                                 *
-*  written by Vadim Sinitski                                      *
- *******************************************************************/
 #include <WiFi.h>
 #include <WiFiClientSecure.h>
 #include <UniversalTelegramBot.h>
